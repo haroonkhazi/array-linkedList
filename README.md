@@ -1,7 +1,7 @@
 # array-linkedList
 To run the the demo file, in the terminal run:
 
-java Project1/demo.java “prefix”
+	java Project1/demo.java “prefix”
 
 “prefix” is a string containing the prefix you want to check, e.g. 248
 
